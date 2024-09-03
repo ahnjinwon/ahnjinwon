@@ -15,13 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ✨ Tech Stack
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+</div>
 
 ## 📄 Experience
 - 멀티캠퍼스 백엔드 개발자 부트캠프(스프링) 25회차 2024.04 ~ 2024.08
   
 ## 💻 Project
 - [얼굴인식 도어락 2023.04~2023.10](https://github.com/ahnjinwon/Doorlock)
-- [중고거래 사이트](https://github.com/cheoljundev/o2-market)
+- [O2마켓(중고거래 사이트) 2024.06~2024.07](https://github.com/cheoljundev/o2-market)
 - [Laptellect(노트북 추천 서비스 개발) 2024.07 ~ 2024.08](https://github.com/MultiItFinalProject4Team/Laptellect)
 
 ## 🏆 Award
