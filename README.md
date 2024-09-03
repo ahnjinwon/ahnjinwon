@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20JinWon's%20GitHub&fontSize=60)
 
+![JinWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnjinwon&show_icons=true&theme=transparent)
+
 <!--
 **ahnjinwon/ahnjinwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
