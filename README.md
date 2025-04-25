@@ -53,4 +53,3 @@ Here are some ideas to get you started:
 
 
 ![JinWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnjinwon&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
