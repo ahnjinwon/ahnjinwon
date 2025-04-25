@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   Java Spring Boot를 사용한 노트북 추천 및 구매 쇼핑몰
 
 ## ✉️ Contact
-- anjy0821@naver.com
+- [email](anjy0821@naver.com)
+- [velog](https://velog.io/@sudden3415/posts)
 
 ![JinWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnjinwon&show_icons=true&theme=transparent)
