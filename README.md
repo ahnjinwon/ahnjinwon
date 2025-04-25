@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [얼굴인식 도어락 2023.04~2023.10](https://github.com/ahnjinwon/Doorlock)
 - [O2마켓(중고거래 사이트) 2024.06~2024.07](https://github.com/cheoljundev/o2-market)
 - [Laptellect(노트북 추천 서비스 개발) 2024.07 ~ 2024.08](https://github.com/MultiItFinalProject4Team/Laptellect)
-- [MatchPoint(배드민턴 클럽 종합 플랫폼) 2025.04 ~](https://github.com/ahnjinwon/match)
+- [MatchPoint(배드민턴 클럽 종합 플랫폼) 2025.04 ~](https://github.com/ahnjinwon/MatchPlay)
 
 
 ## 🏆 Award
