@@ -48,8 +48,9 @@ Here are some ideas to get you started:
 ## ✉️ Contact
 - Email : anjy0821@naver.com
 
-## 📖 Blog
+## 📖 Study
 - [velog](https://velog.io/@sudden3415/posts)
+- ![Programmers Badge](https://raw.githubusercontent.com/ahnjinwon/PROGRAMMERS-BADGE/master/static/result.svg)
 
 
 ![JinWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnjinwon&show_icons=true&theme=transparent)
