@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 ## 📖 Study
 - [velog](https://velog.io/@sudden3415/posts)
+- [Programmers coding test](https://github.com/ahnjinwon/practice_coding_test)
 
 
 ### Programmers badge
