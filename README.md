@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 🥈 [2024년 멀티캠퍼스 백엔드 개발자 부트캠프(스프링) 25회차 우수상](https://github.com/ahnjinwon/ahnjinwon/blob/main/img/awards/%5B%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%5D%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20(%EC%8A%A4%ED%94%84%EB%A7%81)%20%EC%B5%9C%EC%A2%85%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%9A%B0%EC%88%98%EC%83%81%20(1).pdf) 2024-08-26   
   Java Spring Boot를 사용한 노트북 추천 및 구매 쇼핑몰
 
-- 📜 [정보처리기사 자격증 취득]() (2025-09-12)
+- 📜 [정보처리기사 자격증 취득](https://github.com/ahnjinwon/ahnjinwon/blob/main/img/certificates/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC.pdf) (2025-09-12)
 
 ## ✉️ Contact
 - Email : anjy0821@naver.com
