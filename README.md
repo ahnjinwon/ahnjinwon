@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## 💻 Project
 - [얼굴인식 도어락 2023.04~2023.10](https://github.com/ahnjinwon/Doorlock)
 - [Laptellect(노트북 추천 서비스 개발) 2024.07 ~ 2024.08](https://github.com/MultiItFinalProject4Team/Laptellect)
-- [0909(공동구매 플랫폼) 2025.12 ~ 2026.02]([https://github.com/MultiItFinalProject4Team/Laptellect](https://github.com/prgrms-be-adv-devcourse/beadv2_2_superjunior_BE))
+- [0909(공동구매 플랫폼) 2025.12 ~ 2026.02]([https://github.com/MultiItFinalProject4Team/Laptellect](https://github.com/prgrms-be-adv-devcourse/beadv2_2_superjunior_BE)
 <!-- - [MatchPlay(배드민턴 클럽 종합 플랫폼) ~ing](https://github.com/ahnjinwon/MatchPlay) -->
 
 
